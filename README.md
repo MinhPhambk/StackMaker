@@ -3,7 +3,7 @@
 To add a new level xx, please add an file in folder Assests/_Games/Data with name "lvxx.txt".
 
 You also have to generate file with line's format:
-  + ItemType Posision.x Posision.y Posision.z Rotation.x Rotation.y Rotation.z
+  + ItemType Position.x Position.y Position.z Rotation.x Rotation.y Rotation.z
 
 **Item type**
   + Player = 0
